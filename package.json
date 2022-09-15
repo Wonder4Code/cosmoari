@@ -1,7 +1,7 @@
 {
   "name": "cosmo",
   "version": "0.1.0",
-  "homepage": "https://wonder4code.github.io/cosmo/",
+  "homepage": "https://wonder4code.github.io/cosmoari/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -9,10 +9,9 @@ const StyledInput = styled.input`
   font-size: 20px;
   border-radius: 4px;
   margin-top: 16px;
-  outline: none;
   transition: 400ms ease-in-out;
   border: none;
-  box-shadow: 0 5px 10px 4px lightgray;
+  outline: 1px solid lightgray;
   box-sizing: border-box;
 
   &::placeholder {
@@ -45,8 +44,7 @@ const StyledArea = styled.textarea`
   padding: 12px 16px;
   resize: none;
   border-radius: 4px;
-  outline: none;
-  box-shadow: 0 5px 10px 4px lightgray;
+  outline: 1px solid lightgray;
   border: none;
   box-sizing: border-box;
 
