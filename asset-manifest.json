@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/cosmoari/static/js/main.6a389cd0.js",
+    "main.js": "/cosmoari/static/js/main.aa0bd8e7.js",
     "static/media/photo1.jpg": "/cosmoari/static/media/photo1.27b1613ace1a7c61584c.jpg",
     "static/media/photo2.jpg": "/cosmoari/static/media/photo2.372fd87fb04919217ebb.jpg",
     "static/media/Cosmo.svg": "/cosmoari/static/media/Cosmo.4c2379bc92c11e5154cffb597a5ef638.svg",
@@ -9,9 +9,9 @@
     "static/media/point4.svg": "/cosmoari/static/media/point4.0f76666a84ce7522354de4770119c30a.svg",
     "index.html": "/cosmoari/index.html",
     "static/media/point1.svg": "/cosmoari/static/media/point1.5865a7085ab4898021010b8840daa523.svg",
-    "main.6a389cd0.js.map": "/cosmoari/static/js/main.6a389cd0.js.map"
+    "main.aa0bd8e7.js.map": "/cosmoari/static/js/main.aa0bd8e7.js.map"
   },
   "entrypoints": [
-    "static/js/main.6a389cd0.js"
+    "static/js/main.aa0bd8e7.js"
   ]
 }
